@@ -1,3 +1,16 @@
-body {background-color:lightgrey;}
-h1   {color:blue;}
-p    {color:green;}
+body {
+	background-color:lightgrey;
+}
+h1   {
+	color:blue;
+}
+p    {
+	color:green;
+}
+
+p.week2R{
+	color:red;
+	border: 2px solid blue;
+	padding: 10px;
+	margin: 20px;
+}
